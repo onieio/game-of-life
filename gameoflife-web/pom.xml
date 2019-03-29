@@ -184,5 +184,10 @@
             <version>2.5-20190329.073608-1</version>
             <type>war</type>
         </dependency>
+        <dependency>
+  <groupId>paytm_gid</groupId>
+  <artifactId>paytm_aid</artifactId>
+  <version>1.0</version>
+</dependency>
     </dependencies>
 </project>
