@@ -505,18 +505,18 @@
         <snapshotRepository>
             <id>nexus-snapshots</id>
             <name>snapshots</name>
-            <url>http://artifactory.bounce.bike:8081/repository/maven-snapshots/</url>
+            <url>http://13.234.122.18:8081/repository/maven-snapshots/</url>
         </snapshotRepository>
         <repository>
             <id>nexus-releases</id>
             <name>Releases</name>
-            <url>http://artifactory.bounce.bike:8081/repository/maven-releases/</url>
+            <url>http://13.234.122.18:8081/repository/maven-releases/</url>
         </repository>
     </distributionManagement>
     <repositories>
          <repository>
             <id>maven-group</id>
-            <url>http://artifactory.bounce.bike:8081/repository/maven-group/</url>
+            <url>http://13.234.122.18:8081/repository/maven-group/</url>
         </repository>
     </repositories>
 </project>
