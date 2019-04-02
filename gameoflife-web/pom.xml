@@ -184,10 +184,6 @@
             <version>2.5-20190329.073608-1</version>
             <type>war</type>
         </dependency>
-        <dependency>
-            <groupId>com.jdevs</groupId>
-            <artifactId>studentapp</artifactId>
-            <version>2.6-20190402.120645-2</version>
-        </dependency>
+
     </dependencies>
 </project>
