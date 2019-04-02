@@ -512,5 +512,9 @@
             <name>Releases</name>
             <url>http://artifactory.bounce.bike:8081/repository/maven-releases/</url>
         </repository>
+        <repository>
+            <id>maven-group</id>
+            <url>http://artifactory.bounce.bike:8081/repository/maven-group/</url>
+        </repository>
     </distributionManagement>
 </project>
